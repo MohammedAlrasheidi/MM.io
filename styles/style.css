@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
+
+body {
+    background-color: rgb(122, 120, 120);
+}
+
+p{
+  color: white;
+}
+
+
+h3 {
+  color: black;
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+h4{
+  color: black;
+  font-family:'Times New Roman', Times, serif
+
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+ 
+}
