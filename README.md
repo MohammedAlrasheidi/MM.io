@@ -1,6 +1,5 @@
 # Mohammed Alrasheidi_final
 
-# Mohammed Alrasheidi_final
 The project Takes an existing craigslist interface and makes improvements on it for better experience.
 # Craigslist Filter Website
 
